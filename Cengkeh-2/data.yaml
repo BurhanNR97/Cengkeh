@@ -1,0 +1,14 @@
+names:
+- baik
+- buruk
+- sedang
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: cengkeh-cmnqk
+  url: https://universe.roboflow.com/burhan-nasir-rauf-osrki/cengkeh-cmnqk/dataset/2
+  version: 2
+  workspace: burhan-nasir-rauf-osrki
+test: ../test/images
+train: Cengkeh-2/train/images
+val: Cengkeh-2/valid/images
